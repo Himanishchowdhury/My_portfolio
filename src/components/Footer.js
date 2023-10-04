@@ -6,9 +6,9 @@ import { motion } from 'framer-motion';
 import { fadeInBottomVariant } from '../utils/Variant';
 import { useRef } from 'react';
 import emailjs from 'emailjs-com';
-import LeftFadeImage from '../assets/left.png';
-import RightFadeImage from '../assets/right.png';
-import { FadeImage } from "../styles/Global.styled";
+// import LeftFadeImage from '../assets/left.png';
+// import RightFadeImage from '../assets/right.png';
+// import { FadeImage } from "../styles/Global.styled";
 
 
 const Footer = () => {
@@ -94,10 +94,10 @@ const Footer = () => {
             </FlexContainer>
         </PaddingContainer>
    </PaddingContainer>
-                <FadeImage src={LeftFadeImage} top="306vh" left="-10vw" />
+                {/* <FadeImage src={LeftFadeImage} top="306vh" left="-10vw" />
                 <FadeImage src={LeftFadeImage} top="309vh" left="-10vw" />
                 <FadeImage src={RightFadeImage} top="333vh" right="-3vw"/>
-                <FadeImage src={RightFadeImage} top="330vh" right="-3vw"/>
+                <FadeImage src={RightFadeImage} top="330vh" right="-3vw"/> */}
    
    </div>
   )
