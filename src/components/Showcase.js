@@ -148,8 +148,6 @@ const Showcase = () => {
                 </PaddingContainer>
                 <FadeImage src={LeftFadeImage} top="3vh" left="-10vw" />
                 <FadeImage src={LeftFadeImage} top="5vh" left="-10vw" />
-                <FadeImage src={RightFadeImage} top="8vh" left="70vw"/>
-                <FadeImage src={RightFadeImage} top="12vh" left="70vw"/>
                 </FlexContainer>
                 
                 
