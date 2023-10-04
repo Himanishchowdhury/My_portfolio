@@ -8,7 +8,7 @@ import { color, motion } from "framer-motion";
 import { fadeInLeftVariant, fadeInRightVariant } from "../utils/Variant";
 import TopFadeImage from '../assets/top.png';
 import LeftFadeImage from '../assets/left.png';
-import RightFadeImage from '../assets/right.png';
+// import RightFadeImage from '../assets/right.png';
 import { FadeImage } from "../styles/Global.styled";
 
 const Showcase = () => {
