@@ -111,7 +111,7 @@ const Showcase = () => {
                         size="h2"
                         top="0.5rem"
                         bottom="1rem"
-                    >I'm <BlueText>Bapi Mandal</BlueText></Heading>
+                    >I'm <BlueText>Himanish Chowdhury</BlueText></Heading>
                     <Heading
                         as="h3"
                         size="h3"
@@ -119,29 +119,29 @@ const Showcase = () => {
                         I'm a <BlueText>Frontend Developer</BlueText>
                     </Heading>
                     <ParaText as="p" top="2rem" bottom="4rem">
-                        Hello, My name is Bapi Mandal. I'm a front-end developer with 1 years of
-                        experience in creating and designing user-friendly websites
-                        web applications and Android applications.
+                        Hello, My name is Himanish Chowdhury. I'm a front-end developer with 1 years of
+                        experience in creating and designing user-friendly websites web applications .
+                        And I also worked in Data Science Project using Machine Learning.
                     </ParaText>
                     <FlexContainer align="center" gap="20px" responsiveFlex>
                         <IconContainer color="blue" size="1.6rem">
-                            <a href="https://www.linkedin.com/in/bapi-mandal-2247161b7/" target="_blank">
+                            <a href="https://www.linkedin.com/in/himanishchowdhury/" target="_blank">
                             <BsLinkedin />
                             </a>
                             
                         </IconContainer>
                         <IconContainer color="blue" size="1.6rem">
-                            <a href="https://github.com/Bama1030" target="_blank"><BsGithub /></a>
+                            <a href="https://github.com/Himanishchowdhury" target="_blank"><BsGithub /></a>
                             
                         </IconContainer>
                         <IconContainer color="blue" size="1.6rem">
-                            <a href="https://twitter.com/BapiMan76595572" target="_blank"><BsTwitter /></a>
+                            <a href="https://twitter.com/Himanishchow1" target="_blank"><BsTwitter /></a>
                             
                         </IconContainer>
-                        <IconContainer color="blue" size="1.6rem">
-                            <a href="https://www.instagram.com/bapi_mandal.official/" target="_blank"><BsInstagram /></a>
+                        {/* <IconContainer color="blue" size="1.6rem">
+                            <a href=" " target="_blank"><BsInstagram /></a>
                             
-                        </IconContainer>
+                        </IconContainer> */}
                     </FlexContainer>
                 </motion.div>
                 

@@ -69,15 +69,11 @@ const MySkills =()=>{
                     </Heading>
                     <ParaText top="2rem" bottom="1.5rem">
                         AS a Developer I have a wide range of experience in 
-                        <b> front-end development</b>. I am proficient in <b>React, JavaScript, MongoDB, HTML and CSS</b>.
-                        My strong experience in building responsive and dynamic user interfaces using React.
+                        <b> front-end development</b>. I am proficient in <b>React, JavaScript, HTML and CSS</b>.
+                        My strong experience in building responsive and dynamic user interfaces.
                     </ParaText>
                     <ParaText top="1rem" bottom="1.5rem">
-                    I have also a wide range of experience in <b>Flutter development</b> with a proven track record of 
-                    creating high-quality mobile applications for Android platforms. 
-                    Proficient in Dart programming language and well-versed in the Flutter framework. 
-                    Strong problem-solving skills and a keen eye for UI/UX design. Adept at collaborating with cross-functional teams to deliver projects on time and within scope. 
-                    Continuously learning and staying updated with the latest Flutter developments and best practices.
+                    I have also work in <b>Data Science and Machine Learning</b> with extensive experience in developing innovative solutions and extracting actionable insights from complex datasets. Proficient in Python, and various machine learning frameworks such as TensorFlow, Keras, and Scikit-learn. Demonstrated expertise in building and deploying predictive models, performing statistical analysis, and leveraging data visualization tools to communicate results effectively. Strong problem-solving abilities and a detail-oriented approach to project execution. Passionate about continuously learning and applying the latest advancements in data science and machine learning to solve real-world challenges.
                     </ParaText>
                 </motion.div>
 
